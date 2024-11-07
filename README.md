@@ -16,7 +16,7 @@ RAG的中文实现方案
 
 ## 示例
 ### 简短示例
-`
+```python
 from cnrag.core.runner import SimpleRunner
 
 txts=['今天不开心','世界很美好']
@@ -25,4 +25,4 @@ runner=SimpleRunner(txts=txts,model_dir=model_dir)
 res=runner.select('明天')
 print(res)
 
-`
+```
