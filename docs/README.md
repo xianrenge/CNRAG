@@ -24,6 +24,10 @@
 
 
 ## 技术汇总
+
+self-rag
+
+
 GraphRag  
 
 https://github.com/microsoft/graphrag
